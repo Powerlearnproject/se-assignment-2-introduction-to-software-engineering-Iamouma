@@ -6,7 +6,7 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+1. Define Software Engineering:
 What is software engineering, and how does it differ from traditional programming?
 
 Software engineering is a discipline that involves the systemic application of engineering principles and practices to the design development, testing, deploynment and maintanance of software.
@@ -18,7 +18,7 @@ Focus - Traditional programming concentrates on the act of aoding and solving im
 Documentation - Traditional programming may have minimal documentation and less emphasis on long-term maintenance while, software enginnering requires thorough documentation at each stage of dvelopment.
 
 
-Software Development Life Cycle (SDLC):
+2. Software Development Life Cycle (SDLC):
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
 The Software Development Lifecycle (SDLC) is a structured process used for planning, creating, testing, and deploying software applications. It consists of several phases, each with specific tasks and objectives. The main phases of the SDLC are:
@@ -31,7 +31,7 @@ Deployment - Prepare the software for release to the production environment, cre
 Maintenance - Monitor the software for issues and performance in the production environment, perform regular updates, bug fixes, and enhancements based on user feedback and changing requirements and ensure the software remains functional, secure, and up-to-date.
 
 
-Agile vs. Waterfall Models:
+3. Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
 Agile model is an iterative and incremental approach that emphasizes on flexibility, customer collaboration and rapid delivery of small, functional pieces of software. Requirements can evolve based on feedback and changing business needs.Teams are self-organixzd and consisy of cross-functional members who work collaboratively.
@@ -50,7 +50,7 @@ Suitable scenarios for waterfall model are, clear and unchanging requirementrs, 
 
 
 
-Requirements Engineering:
+4. Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 
 Requirements engineering is a systematic process involved in identifying, documenting, and managing the needs and requirements of stakeholders for a software system. It is a critical phase in the software development lifecycle (SDLC) because it ensures that the final product meets the intended purpose and satisfies all stakeholders' expectations
@@ -62,7 +62,7 @@ Requirements engineering is fundamental to the success of any software developme
 
 
 
-Software Design Principles:
+5. Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 
 Modularity in software design is the principle of dividing a software system into distinct, self-contained units or modules, each of which encapsulates a specific piece of functionality. These modules can be developed, tested, and maintained independently but work together to form the complete system. Modularity is a key concept in software engineering because it improves the maintainability, scalability, and overall quality of software systems.Improved Maintainability:
@@ -80,7 +80,7 @@ Parallel Development - Multiple teams can work on different modules simultaneous
 
 
 
-Testing in Software Engineering:
+6. Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
 Software testing is a critical process in software development to ensure that the software performs as expected and is free of defects. There are several levels of software testing, each serving a specific purpose:
@@ -138,7 +138,7 @@ Cost Efficiency:
 
 
 
-Version Control Systems:
+7. Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 
 Version control systems (VCS) are tools that help manage changes to source code and other project files over time. They track revisions, allow multiple developers to collaborate, and maintain a history of changes. VCS are crucial in software development for several reasons:
@@ -198,7 +198,7 @@ Features of Version Control Systems
 
 
 
-Software Project Management:
+8. Software Project Management:
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
 A software project manager (spm) plays a crucial role in the planning, execution, and delivery of software projects. they ensure that projects are completed on time, within budget, and to the required quality standards. the role requires a mix of technical knowledge, management skills, and interpersonal abilities.
@@ -267,10 +267,10 @@ technology changes:
 
 
 
-Software Maintenance:
+9. Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
-oftware maintenance refers to the process of modifying and updating software after it has been delivered and deployed. It encompasses a range of activities aimed at ensuring the software remains usable, reliable, and up-to-date throughout its lifecycle. Maintenance is an essential part of the software lifecycle because it helps address issues, adapt to changing requirements, and improve the overall quality and performance of the software.
+software maintenance refers to the process of modifying and updating software after it has been delivered and deployed. It encompasses a range of activities aimed at ensuring the software remains usable, reliable, and up-to-date throughout its lifecycle. Maintenance is an essential part of the software lifecycle because it helps address issues, adapt to changing requirements, and improve the overall quality and performance of the software.
 
 Types of Software Maintenance Activities
 Corrective Maintenance:
@@ -304,7 +304,7 @@ Long-Term Sustainability - Extends the lifespan of the software by keeping it re
 
 
 
-Ethical Considerations in Software Engineering:
+10. Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
 Software engineers may encounter various ethical issues throughout their careers, stemming from the nature of their work and its impact on society. Some common ethical issues include:
