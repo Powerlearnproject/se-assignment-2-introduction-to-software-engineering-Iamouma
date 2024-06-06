@@ -198,7 +198,7 @@ Features of Version Control Systems
 
 
 
-8. Software Project Management:
+8. Software Project Management
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
 A software project manager (spm) plays a crucial role in the planning, execution, and delivery of software projects. they ensure that projects are completed on time, within budget, and to the required quality standards. the role requires a mix of technical knowledge, management skills, and interpersonal abilities.
